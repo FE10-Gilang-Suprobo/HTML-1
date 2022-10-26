@@ -1,0 +1,19 @@
+.topnav {
+    text-align: center;
+}
+
+.topnav img {
+    align-items: flex-start;
+}
+
+.link {
+    
+}
+
+.link a {
+  color: #12386B;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  }
+
